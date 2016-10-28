@@ -1,2 +1,2 @@
 # BDPLscripts
-Collection of BDPL Scripts
+Collection of BDPL Scripts and Instructions
